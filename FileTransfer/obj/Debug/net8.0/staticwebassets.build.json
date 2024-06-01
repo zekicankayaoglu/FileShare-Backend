@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "3Ad6cEHG6CL6X/ZIAtNMoa4eiNQZXTKiHyXB1Vjn4Bc=",
+  "Source": "FileTransfer",
+  "BasePath": "_content/FileTransfer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

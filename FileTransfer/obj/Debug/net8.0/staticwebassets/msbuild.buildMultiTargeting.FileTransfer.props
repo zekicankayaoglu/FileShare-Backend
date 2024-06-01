@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\FileTransfer.props" />
+</Project>
